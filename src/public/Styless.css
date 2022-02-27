@@ -1,0 +1,48 @@
+#index-logo{
+    max-height: 45px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    float: left;
+}
+
+body{
+    background-color: #F1E7DD;
+}
+
+.flex-container-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.title{
+    font-size: 35px;
+    padding-left: 5rem;
+    text-align: center;
+    color: black;
+}
+
+.darken-4{
+    background-color: #F1E7DD;
+    height: 5rem;
+}
+
+.item-image{
+    max-height: 300px;
+    max-width: 300px;
+    margin: 1rem;
+}
+
+.card-content{
+    margin: 2rem;
+    align-content: center;
+}
+
+.card-action{
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
+
+.btn{
+    background-color: #533DB9 !important;
+    border-radius: 30px !important;
+}
